@@ -1,5 +1,5 @@
-# Pure TypeScript Todo App
-This is a simple todo application built using TypeScript and deployed on Render. The app allows users to create, delete, mark as done, and modify todos. It was developed as part of a business school Helsinki project and is the first sprint of the project.
+# TypeScript Todo Application with Drag and Drop
+This TypeScript-based Todo Application is a personal project that showcases the power of TypeScript and the usage of the drag and drop package. With this application, users can create, delete, mark as done, and modify their todos with ease. TypeScript helps minimize errors during development, making it an ideal language to use for building reliable and scalable applications. This project serves as a great introduction to TypeScript, allowing developers to learn more about its capabilities and how it can be used to build complex applications. If you're looking to learn more about TypeScript and how it can be used in your development projects, this Todo Application is a great place to start!.
 
 ## Technologies Used
 
